@@ -10,12 +10,14 @@ EMBED_COLOR = 0x000000
 RAID_COUNT = 5
 RAID_DELAY = 0.5
 
-RAID_MESSAGE = """# YOUR TITLE HERE
-https://discord.gg/your-invite
+RAID_MESSAGE = """
+Wtv u want here but make sure its between (""" """)
+https://discord.gg/govsec
+"""
 
-EMBED_TITLE = "[Your Title Here](https://discord.gg/your-invite)"
-EMBED_DESCRIPTION = "Your description here"
-EMBED_FOOTER = "Your footer here"
+EMBED_TITLE = "discord.gg/govsec"
+EMBED_DESCRIPTION = "discord.gg/govsec"
+EMBED_FOOTER = "discord.gg/govsec"
 
 intents = discord.Intents.default()
 intents.message_content = True
