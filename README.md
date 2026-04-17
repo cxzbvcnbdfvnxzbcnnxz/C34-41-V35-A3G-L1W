@@ -10,13 +10,11 @@ A Discord bot with raid and messaging commands. Built with discord.py.
 - Works in DMs and servers
 - Easy to customize
 
-## >> Installation
-
-### Prerequisites
+### >> Prerequisites
 - Python 3.8+
 - Discord Bot Token ([Get one here](https://discord.com/developers/applications))
 
-### Setup
+### >> Setup
 ```
 # Clone the repository
 git clone https://github.com/yourusername/raidbot.git
