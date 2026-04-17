@@ -17,7 +17,7 @@ A Discord bot with raid and messaging commands. Built with discord.py.
 ### >> Setup
 ```
 # Clone the repository
-git clone [https://github.com/yourusername/raidbot.git](https://github.com/cxzbvcnbdfvnxzbcnnxz/C34-41-V35-A3G-L1W.git)
+git clone https://github.com/cxzbvcnbdfvnxzbcnnxz/C34-41-V35-A3G-L1W.git
 cd C34-41-V35-A3G-L1W
 
 # Install requirements
