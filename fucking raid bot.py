@@ -4,7 +4,7 @@ from discord import app_commands
 import asyncio
 
 BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-INVITE_LINK = "https://discord.gg/your-invite"
+INVITE_LINK = "https://discord.gg/govsec"
 GIF_URL = "https://files.catbox.moe/2p9lgx.gif"
 EMBED_COLOR = 0x000000
 RAID_COUNT = 5
