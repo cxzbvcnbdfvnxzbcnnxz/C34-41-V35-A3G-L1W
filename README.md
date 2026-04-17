@@ -2,7 +2,7 @@
 A Discord bot with raid and messaging commands. Built with discord.py.
 
 ## >> Disclaimer
-** No fucking disclaimer needed go fuck yourselves.
+** No fucking disclaimer needed go fuck yourselves. **
 
 ## >> Features
 - `/raid` - Sends multiple embeds/messages
